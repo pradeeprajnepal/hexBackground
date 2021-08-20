@@ -1,0 +1,14 @@
+.content{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    min-height: 100vh;
+}
+ .hex-info{
+     margin:10px;
+     font-size:50px;
+     float:left;
+ }
+
+ 
